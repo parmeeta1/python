@@ -1,0 +1,4 @@
+mylist= [7,8,2,6,10,3,9]
+def reverse(mylist):
+    return mylist[::-1]
+print(reverse(mylist))
